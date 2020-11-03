@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JanelasCalculadora</string>
+    <string name="largura">Largura:</string>
+    <string name="calculo_peso_vidro">Calculo Peso Vidro</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="mm1">(mm)</string>
+    <string name="mm2">(mm)</string>
+    <string name="mm3">(mm)</string>
+    <string name="expessura">Expessura:</string>
+    <string name="altura">Altura:</string>
+    <string name="e">E</string>
+    <string name="e1">E</string>
+    <string name="e2">E</string>
+    <string name="vidro_2">vidro 2</string>
+</resources>
